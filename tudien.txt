@@ -1,0 +1,107 @@
+hello;xin chao;hello my friends
+family;gia dinh;my family very happy
+house;ngoi nha;that house is red
+dog;con cho;i have a dog
+cat;con meo;cat is my pet
+class;Lop hoc;my class has 40 students
+teacher;giao vien;teacher is a job
+student;hoc sinh;i am a student
+school;truong hoc;i go to school everyday
+color;mau sac;the flower has many colors
+park;cong vien;I go for a walk in the park
+mouse;con chuot;the mouse is running
+bird;con chim;bird on tree
+fox;con cao;fox in the zoo
+need;can;i need a pen
+table;cai ban;pen on the table
+friend;ban be;i have a friend
+day;ngay;today is my day
+listen;nghe;listenning music
+talk;noi chuyen;talk with friend
+score;diem so ;i get 10 score 
+final;cuoi cung;finally i win
+skill;ki nang;i have 5 skill
+pig;con heo;pig is run
+chicken;con ga;chicken in garden
+garden;cai vuon;i have a garden
+sing;hat;sing a song
+song;bai hat;sing a song
+story;cau chuyen;i have a story
+read;doc;i read a book
+book;cuon sach;i read a book
+test;kiem tra;i have a test today
+bye;tam biet;i say bye with my friend
+car;xe hoi;i have a car
+edit;chinh sua;i edit video
+camera;may anh;i have a camera
+photo;hinh anh;t give a photo
+bus;xe buyt;i go to school by bus
+water;nuoc;i drink water
+drink;uong;i drink water
+eat;an;i eat apple
+apple;trai tao;i eat apple
+banana;trai chuoi;i eat banana
+love;tinh yeu;i love my family
+window;cua so;in room have 1 window
+game;tro choi;i play game
+group;nhom;i play in a group
+watch;xem;i watching tv
+weather;thoi tiet;the weather is cold
+job;cong viec;i have a job
+search;tim kiem;i search info
+info;thong tin;i search info
+buy;mua;i buy a car
+sell;ban;i sell a car
+everyone;moi nguoi;hello everyone
+sad;buon;i'm so sad
+life;cuoc song;i love my life
+history;lich su;i study about history
+phone;dien thoai;i buy new phone
+communication;giao tiep;i communicate with foreigner
+foreigner;nguoi nuoc ngoai;i communicate with foreigner
+study;hoc;i study in class
+can;co the;i can do it
+simple;don gian;that is simple
+language;ngon ngu; I can speak many languages
+advice;loi khuyen;she gives me some advices
+go;di;i go to school
+work;cong viec;my work is student
+everything;moi thu;everything is so beautiful
+beatiful;xinh dep;my wife is so beautiful
+add;them vao;i add friends on facebook
+delete;xoa;i delete list 
+upgrade;nang cap;the car is upgraded
+send;gui;i send a letter
+letter;la thu;i write a letter
+write;viet;i write a letter
+clean;sach se;my room is very clean
+help;giup do;i help my mom
+vocabulary;tu vung;i study vocabulary
+grammar;ngu phap;i study grammar
+name;ten;my name is teo
+people;con nguoi;people here are friendly
+friendly;than thien;people here are friendly
+horror;kinh di;I am watching a horror movie
+movie;phim;I am watching a horror movie
+television;ti vi;I am watching television
+monday;thu hai;today is monday
+tuesday;thu ba;today is tuesday
+wednesday;thu tu;today is wednesday
+saturday;thu bay;today is saturday
+friday;thu sau;today is friday
+i;toi;i am a student
+sunday;chu nhat;today is sunday
+january;thang mot;this month is january 
+february;thang hai; this month is february
+march; thang ba;this month is march
+april; thang tu;this month is april
+may; thang nam;this month is may
+june; thang sau;this month is june
+july; thang bay;this month is july
+august; thang tam;this month is august
+september; thang chin;this month is september
+october; thang muoi;this month is october
+november; thang muoi mot;this month is november
+december; thang muoi hai;this month is december
+
+
